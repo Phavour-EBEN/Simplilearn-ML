@@ -1,4 +1,3 @@
-
 # Machine Learning Lessons and Projects
 
 ## Description
@@ -85,5 +84,3 @@ Email - [ainooebenezer05@gmail.com](mailto:your.ainooebenezer05@gmail.com)
 - Special thanks to [scikit-learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), and [Keras](https://keras.io/) for the libraries used in these projects.
 
 ---
-
-Feel free to customize this template with your specific details, such as repository URL, author name, and additional sections if needed.
