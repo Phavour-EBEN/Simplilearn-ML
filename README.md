@@ -72,9 +72,6 @@ Contributions are welcome! If you have suggestions, improvements, or additional 
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 Author - [AINOO EBENEZER TUTU](https://www.linkedin.com/in/ebenezer-ainoo/)  
 Email - [ainooebenezer05@gmail.com](mailto:your.ainooebenezer05@gmail.com)
